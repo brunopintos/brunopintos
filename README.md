@@ -8,16 +8,12 @@ I'm used to working with small and large teams, and I am passionate about sharin
 
 In my free time, I love to play football ⚽️ with my friends and I'm also a big fan of formula 1 🏎 so I don't like to miss any race.
 
-<br>
-
 # Technology Stack 🧑‍💻
 
 ## Code:
 
 <img src="https://img.shields.io/badge/React-222222?style=flat&logo=react"/>
 <img src="https://img.shields.io/badge/React%20Native-222222?style=flat&logo=react"/>
-
-<br>
 
 ## Version Control:
 
@@ -26,14 +22,10 @@ In my free time, I love to play football ⚽️ with my friends and I'm also a b
 <img src="https://img.shields.io/badge/GitLab-222222?style=flat&logo=gitlab"/>
 <img src="https://img.shields.io/badge/Bitbucket-222222?style=flat&logo=bitbucket&logoColor=267df1"/>
 
-<br>
-
 ## Management Tools:
 
 <img src="https://img.shields.io/badge/Jira-222222?style=flat&logo=jira&logoColor=267df1"/>
 <img src="https://img.shields.io/badge/Trello-222222?style=flat&logo=trello&logoColor=247df2"/>
-
-<br>
 
 ## Design Tools:
 
@@ -41,14 +33,10 @@ In my free time, I love to play football ⚽️ with my friends and I'm also a b
 <img src="https://img.shields.io/badge/Sketch-222222?style=flat&logo=sketch"/>
 <img src="https://img.shields.io/badge/Zeplin-222222?style=flat&logo=zeplin"/>
 
-<br>
-
 ## Languages:
 
 <img src="https://img.shields.io/badge/Javascript-222222?style=flat&logo=javascript"/>
 <img src="https://img.shields.io/badge/Typescript-222222?style=flat&logo=typescript"/>
-
-<br>
 
 ## Backend:
 
@@ -56,14 +44,10 @@ In my free time, I love to play football ⚽️ with my friends and I'm also a b
 <img src="https://img.shields.io/badge/Rails-222222?style=flat&logo=rubyonrails&logoColor=red"/>
 <img src="https://img.shields.io/badge/Java-222222?style=flat&logo=java&logoColor=eb8f1c"/>
 
-<br>
-
 ## Other frameworks:
 
 <img src="https://img.shields.io/badge/Electron-222222?style=flat&logo=electron"/>
 <img src="https://img.shields.io/badge/Phaser-222222?style=flat&logo=phaser"/>
-
-<br>
 
 # Reach me out on 📱
 
@@ -79,12 +63,8 @@ In my free time, I love to play football ⚽️ with my friends and I'm also a b
  <img src="https://img.shields.io/badge/-brunopintos98-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/brunopintos98"/>
 </a>
 
-<br>
-
 # My Github Stats 📊
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=brunopintos&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
-
-<br>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=brunopintos&theme=xcode&bg_color=131313">
