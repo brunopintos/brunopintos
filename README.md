@@ -2,7 +2,7 @@
 
 I live in Montevideo, Uruguay, and work at Effectus Software — a mobile & web applications development agency.
 
-I'm a Semi Senior Frontend Developer specialized in React and React Native projects. I like to participate in challenging projects and create solutions that change the world.
+I'm a Frontend Developer specialized in React and React Native projects. I like to participate in challenging projects and create solutions that change the world.
 
 I'm used to working with small and large teams, and I am passionate about sharing my knowledge with others. I was in charge of various development teams and trained several junior developers.
 
