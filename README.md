@@ -55,5 +55,3 @@ In my free time, I love to play football ⚽️ with my friends and I'm also a b
 # My Github Stats 📊
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=brunopintos&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
-
-<img src="https://activity-graph.herokuapp.com/graph?username=brunopintos&theme=xcode&bg_color=131313">
