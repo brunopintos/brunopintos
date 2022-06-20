@@ -8,6 +8,24 @@ I'm used to working with small and large teams, and I am passionate about sharin
 
 In my free time, I love to play football ⚽️ with my friends and I'm also a big fan of formula 1 🏎 so I don't like to miss any race.
 
+# My Github Stats 📊
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=brunopintos&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
+
+# Reach me out on 📱
+
+<a href="https://www.linkedin.com/in/brunopintos98/">
+ <img src="https://img.shields.io/badge/-brunopintos98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunopintos98/"/>
+</a>
+
+<a href="mailto: brunopintos98@gmail.com">
+ <img src="https://img.shields.io/badge/-brunopintos98-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunopintos98@gmail.com"/>
+</a>
+
+ <a href="https://twitter.com/brunopintos98">
+ <img src="https://img.shields.io/badge/-brunopintos98-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/brunopintos98"/>
+</a>
+
 # Technology Stack 🧑‍💻
 
 ### Code:
@@ -37,21 +55,3 @@ In my free time, I love to play football ⚽️ with my friends and I'm also a b
 ### Other frameworks:
 
 <img src="https://img.shields.io/badge/Electron-222222?style=flat&logo=electron"/> <img src="https://img.shields.io/badge/Phaser-222222?style=flat&logo=phaser"/>
-
-# Reach me out on 📱
-
-<a href="https://www.linkedin.com/in/brunopintos98/">
- <img src="https://img.shields.io/badge/-brunopintos98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunopintos98/"/>
-</a>
-
-<a href="mailto: brunopintos98@gmail.com">
- <img src="https://img.shields.io/badge/-brunopintos98-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunopintos98@gmail.com"/>
-</a>
-
- <a href="https://twitter.com/brunopintos98">
- <img src="https://img.shields.io/badge/-brunopintos98-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/brunopintos98"/>
-</a>
-
-# My Github Stats 📊
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=brunopintos&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
