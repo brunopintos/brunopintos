@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I live in Montevideo, Uruguay, and work at Effectus Software — a mobile & web applications development agency.
+I'm Bruno, I live in Montevideo, Uruguay, and work at Effectus Software — a mobile & web applications development agency.
 
 I'm a Frontend Developer specialized in React and React Native projects. I like to participate in challenging projects and create solutions that change the world.
 
