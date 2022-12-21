@@ -6,7 +6,7 @@ I'm a Frontend Developer specialized in React and React Native projects. I like 
 
 I'm used to working with small and large teams, and I am passionate about sharing my knowledge with others. I was in charge of various development teams and trained several junior developers.
 
-In my free time, I love to play football ⚽️ with my friends and I'm also a big fan of formula 1 🏎 so I don't like to miss any race.
+In my free time I like to play sports. ⚽️🏀🎾
 
 # My Github Stats 📊
 
