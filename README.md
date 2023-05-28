@@ -22,10 +22,6 @@ In my free time, I enjoy playing sports, including soccer, basketball, and tenni
  <img src="https://img.shields.io/badge/-brunopintos98-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunopintos98@gmail.com"/>
 </a>
 
- <a href="https://twitter.com/brunopintos98">
- <img src="https://img.shields.io/badge/-brunopintos98-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/brunopintos98"/>
-</a>
-
 # Technology Stack 🧑‍💻
 
 ### Code:
